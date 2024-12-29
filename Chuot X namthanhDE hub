@@ -1,0 +1,13 @@
+SpeedTween = 350
+getgenv().autoTeleportToFruit = true
+getgenv().farmlevel= true
+getgenv().auto Teleport= "INSLAND Full"
+getgenv().WebhookUrl = "bandishare"
+getgenv().menu="Vietnames"
+getgenv().name hub="Chuot X namthanhDE hub"
+getgenv().RandomFruit = menu
+getgenv().EspFruit = true
+getgenv().Team = "Marines"
+getgenv().auto1click=true
+getgenv().avartar="100%chuot"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/VNT-UNIVERSAL/Chuot X namthanhDe hub/menu/main/Release/fruitfarm.lua'))()
